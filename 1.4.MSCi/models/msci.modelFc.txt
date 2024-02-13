@@ -1,0 +1,10 @@
+#model Fc, bidirectional migration between 
+# 1. elevatus and pardalinus
+# 2. melpomene and elevatus
+# 3. melpomene and ele/par ancestral
+tree (A,(B,C));
+define T as B,C
+define R as A,B
+bidirection B T, C T as E P phi=0.3,0.3
+bidirection A R, E T as S H phi=0.3,0.3
+bidirection S R, T R as X Y phi=0.3,0.3

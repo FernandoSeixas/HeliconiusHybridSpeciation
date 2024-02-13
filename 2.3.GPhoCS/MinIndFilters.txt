@@ -1,0 +1,17 @@
+Hbessppbra	1
+Hparserper	3
+Helebargui	3
+Helenapecu	3
+Hparoreecu	3
+Hparletcol	3
+Heleletcol	3
+Hparyurper	3
+Heleyurper	3
+Hparlamper	3
+Helepmdper	3
+Hparbenbol	3
+Helebenbol	3
+Hparcarbra	3
+Helecarbra	3
+Heleronbra	3
+Helerurbra	3

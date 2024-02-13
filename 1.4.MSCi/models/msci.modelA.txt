@@ -1,0 +1,5 @@
+#model A, version 1
+tree (A,(B,C));
+define T as B,C
+define R as A,B
+hybridization R A, T C as S H tau=yes, yes phi=0.10

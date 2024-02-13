@@ -1,0 +1,36 @@
+// Search ranges and rules file
+// ****************************
+
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max
+//all Ns are in number of haploid individuals
+1  NPOP_0		unif	1e5	 2e6	    output
+1  NPOP_1		unif	1e5	 2e6	    output
+1  NPOP_2		unif	1e5	 2e6	    output
+1  NPOP_3		unif	1e5	 2e6	    output
+1  T_SC_21      unif    1e5  2e6        output
+1  T_PLS_10     unif    1e5  2e6        hide
+1  T_PLS_23     unif    1e5  2e6        hide
+1  T_PLS_30     unif    1e5  8e6        hide 
+0  MIG_12       logunif 1e-8   1e-3     output
+0  MIG_21       logunif 1e-8   1e-3     output
+0  MIG_01       logunif 1e-8   1e-3     output
+0  MIG_10       logunif 1e-8   1e-3     output
+0  MIG_23       logunif 1e-8   1e-3     output
+0  MIG_32       logunif 1e-8   1e-3     output
+0  MIG_03       logunif 1e-8   1e-3     output
+0  MIG_30       logunif 1e-8   1e-3     output
+
+[COMPLEX PARAMETERS]
+1 TDIV_10 = T_SC_21 + T_PLS_10                  output
+1 TDIV_23 = T_SC_21 + T_PLS_23                  output
+1 TMAX_10_23  = TDIV_10 %max% TDIV_23           hide
+1 TDIV_30 = TMAX_10_23 + T_PLS_30               output
+1 NANC_10 = NPOP_0 %max% NPOP_1                 output
+1 NANC_23 = NPOP_2 %max% NPOP_3                 output
+1 NANC_03 = NANC_10 %max% NANC_23               output
+0 NANC_CHG_10 = NANC_10/NPOP_0                  hide
+0 NANC_CHG_23 = NANC_23/NPOP_3                  hide
+0 NANC_CHG_30 = NANC_03/NANC_10                 hide
+1 MigrMat1a = TDIV_10>TDIV_23 ? 2 : 1           hide
+1 MigrMat1b = TDIV_23>TDIV_10 ? 2 : 1           hide

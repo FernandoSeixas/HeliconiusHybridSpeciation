@@ -1,0 +1,73 @@
+# ser-bar
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Helebargui Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+# btw-wth (10)
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparoreecu Helenapecu Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparletcol Heleletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparyurper Heleyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparlamper Helepmdper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparbenbol Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparcarbra Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+# btw-btw (11)
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparoreecu Heleletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparoreecu Heleyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparoreecu Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparoreecu Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparletcol Helenapecu Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparletcol Heleyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparletcol Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparletcol Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparyurper Helenapecu Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparyurper Heleletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparyurper Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparyurper Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparbenbol Helenapecu Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparbenbol Heleletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparbenbol Heleyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparbenbol Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparcarbra Helenapecu Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparcarbra Heleletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparcarbra Heleyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparcarbra Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+# wth-btw (01)
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparoreecu Hparletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparoreecu Hparyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparoreecu Hparbenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparoreecu Hparcarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparletcol Hparyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparletcol Hparbenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparletcol Hparcarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparyurper Hparbenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparyurper Hparcarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparbenbol Hparcarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helenapecu Heleletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helenapecu Heleyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helenapecu Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helenapecu Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Heleletcol Heleyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Heleletcol Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Heleletcol Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Heleyurper Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Heleyurper Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebenbol Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+# bar-ama
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Helenapecu Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Heleletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Heleyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Hparoreecu Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Hparletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Hparyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Hparbenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Helebargui Hparcarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+# ser-ama
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Helenapecu Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Heleletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Heleyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Helebenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Helecarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Hparoreecu Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Hparletcol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Hparyurper Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Hparbenbol Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor
+sbatch /n/home12/fseixas/code/heliconius_seixas/2.elevatus_pardalinus/gphocs/2.run_gPhoCS_3pops.slurm Hparserper Hparcarbra Hbessppbra noncod.minL1000.maxL1000.minG10000 gphocs.autoNoColor.3pops.ctl autoNoColor

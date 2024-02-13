@@ -1,0 +1,24 @@
+species,race,code,Latitude,Longitude,Altitute,Country,Locality,Region_Province
+pardalinus,orteguaza,Hpar.ore.ecu.001,-0.53,-76.42,nan,Ecuador,Añangu Lake,Orellana
+pardalinus,butleri,Hpar.yur.per.002,-5.91,-76.23,149,Peru North,Tarapoto,San Martin
+pardalinus,dilatus,Hpar.puc.per.004,-8.34,-74.59,140,Peru Center,Pucallpa,Ucayali
+pardalinus,nan,Hpar.lam.per.003,-12.58,-70.07,nan,Peru South,Los Amigos,Madre de Dios
+pardalinus,maon,Hpar.pmd.per.001,-12.60,-69.22,191,Peru South,Puerto Maldonado,Madre de Dios
+pardalinus,butleri,Hpar.let.col.004,-4.21,-69.93,nan,Colombia,Leticia,Amazonas
+pardalinus,ariadne,Hpar.ben.bol.004,-14.36,-67.53,184,Bolivia,Rurrenabaque,Beni department
+pardalinus,sergestus,Hpar.ser.per.004,-6.48,-76.35,380,Peru North,Tarapoto,San Martin
+pardalinus,radiosus,Hpar.car.bra.001,-3.83,-60.45,nan,Brazil,Amazonas,Careiro
+elevatus,elevatus,Hele.nap.ecu.002,-1.19,-77.83,nan,Ecuador,El Capricho,Napo
+elevatus,pseudocupidineus,Hele.yur.per.003,-5.97,-76.23,185,Peru North,Tarapoto,San Martin
+elevatus,pseudocupidineus,Hele.pbe.per.001,-10.30,-74.94,nan,Peru Center,Puerto Bermudez,Pasco
+elevatus,lapis,Hele.pmd.per.001,-12.65,-69.21,192,Peru South,Puerto Maldonado,Madre de Dios
+elevatus,elevatus,Hele.let.col.001,-4.21,-69.93,nan,Colombia,Leticia,Amazonas
+elevatus,perchlora,Hele.ben.bol.001,-15.34,-67.07,606,Bolivia,Jose Ballivian,Beni department
+elevatus,bari,Hele.bar.gui.001,4.55,-52.14,nan,French Guiana,Morne aux Echos,nan
+elevatus,tumatumari,Hele.tum.sur.001,4.72,-56.81,nan,Suriname,nan,nan
+elevatus,perchlora,Hele.ron.bra.001,-13.49,-61.07,195,Brazil,sand quarry Pimenteiras do Oeste,Rondonia
+elevatus,elevatus,Hele.aut.bra.001,-3.53,-59.81,nan,Brazil,Autazes Estrada Autazes,Amazonas
+elevatus,elevatus,Hele.car.bra.001,-3.83,-60.45,nan,Brazil,Careiro,Amazonas
+elevatus,taracuanus,Hele.lbm.bra.001,-3.22,-60.50,nan,Brazil,Lago do Bim to Manacapuru,Amazonas
+elevatus,poss. paratype,Hele.auy.ven.001,5.72,-62.54,300,Venezuela,Auyán Tepui,Bolívar
+elevatus,roraimae,Hele.sfy.ven.001,5.02,-61.06,nan,Venezuela,San Francisco de Yuruaní,Amazonas

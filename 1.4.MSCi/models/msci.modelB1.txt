@@ -1,0 +1,2 @@
+tree (A,(B,C)T)R;
+hybridization R A, T C as S H tau=no, yes phi=0.10

@@ -1,0 +1,12 @@
+Hmel.agl.per.001    A
+Hmel.agl.per.002    A
+Hmel.agl.per.003    A
+Hmel.agl.per.004    A
+Hele.bar.gui.001    C
+Hele.bar.gui.002    C
+Hele.bar.gui.003    C
+Hele.bar.gui.004    C
+Hpar.ser.per.001    B
+Hpar.ser.per.002    B
+Hpar.ser.per.003    B
+Hpar.ser.per.004    B

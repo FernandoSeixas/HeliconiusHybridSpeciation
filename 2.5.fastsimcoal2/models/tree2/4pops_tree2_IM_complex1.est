@@ -1,0 +1,33 @@
+// Search ranges and rules file
+// ****************************
+
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max
+//all Ns are in number of haploid individuals
+1  NPOP_0		unif	1e4	 2e6	 output
+1  NPOP_1		unif	1e4	 2e6	 output
+1  NPOP_2		unif	1e4	 2e6	 output
+1  NPOP_3		unif	1e4	 2e6	 output
+1  T_SC_03      unif    1e5  8e6     output
+1  T_PLS_23     unif    1e5  8e6     output
+1  T_PLS_13     unif    1e5  8e6     hide
+1  T_PLS_30     unif    1e5  8e6     hide
+0  NANC_CHG_23	unif	0.1	 5  	 hide   bounded
+0  NANC_CHG_13	unif	0.1	 5  	 hide   bounded
+0  NANC_CHG_30	unif	0.1	 5  	 hide   bounded
+0  MIG_12       logunif 1e-8 1e-3  output
+0  MIG_21       logunif 1e-8 1e-3  output
+0  MIG_01       logunif 1e-8 1e-3  output
+0  MIG_10       logunif 1e-8 1e-3  output
+0  MIG_23       logunif 1e-8 1e-3  output
+0  MIG_32       logunif 1e-8 1e-3  output
+0  MIG_13       logunif 1e-8 1e-3  output
+0  MIG_31       logunif 1e-8 1e-3  output
+
+[COMPLEX PARAMETERS]
+1 TDIV_23 = T_SC_03 + T_PLS_23       output
+1 TDIV_13 = TDIV_23 + T_PLS_13       output
+1 TDIV_30 = TDIV_13 + T_PLS_30       output
+1 NANC_23 = NPOP_3*NANC_CHG_23       output
+1 NANC_13 = NANC_23*NANC_CHG_13      output
+1 NANC_30 = NANC_13*NANC_CHG_30      output
